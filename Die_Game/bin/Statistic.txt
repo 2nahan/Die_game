@@ -1,0 +1,67 @@
+
+                 4 STRATEGY IN (1000 Matches)		        |  En iyi strateji "Hold at 25 or Goal"
+-----------------------------------------------------------	|  olarak gözüküyor çünkü bir turda  	
+Hold at 20 or Goal Won 	    	: 226 Matches ( 22.6% )		|  25 puana kadar beklediği zaman 3 kere		
+Hold at 25 or Goal Won 	    	: 274 Matches ( 27.4% )		|  daha  aynı şeyi yaptığı zaman oyunu 
+Keep Pace and End Race Won  	: 264 Matches ( 26.4% )		|  kazanıyor.
+My Die Player Won		: 236 Matches ( 23.6% )									
+								|  Benim stratejimde 15'e kadar beklediği		
+WINNER				: Hold at 25 or Goal		|  için daha yüksek bekleme noktalarına
+**********************************************************	|  göre performansı daha düşük.
+ 
+NOT : 4 Stratejilik Test yaparken kodda duzenleme yapılıp 	|  Bilgisayara karşı oynarken eğer önde
+      oyle çalıstırılmıstır.					|  iseniz fazla risk almadan oynarsanız	
+								|  kazanma oranınız artar.
+NOT2: Test yaparken sonuclarda ufak oynamalar olabilir.		|
+							 	|															
+---------------------------------------------------------------------------------------------------------
+ 
+			THE RATE AT WHICH STRATEGIES WIN BETWEEN EACH OTHER
+
+Hold at 20 or Goal VS Hold at 25 or Goal (1000 Matches)		
+-----------------------------------------------------------	  	
+Hold at 20 or Goal Won 	    	: 461 Matches					
+Hold at 25 or Goal Won 	    	: 539 Matches			 
+Hold at 25 or Goal Win Rate 	: 53.9%				
+								
+*********************************************************	
+								
+Hold at 20 or Goal VS Keep Pace and End Race (1000 Matches)	 
+-----------------------------------------------------------	
+Hold at 20 or Goal Won 	    	: 468 Matches			
+Keep Pace and End Race Won  	: 532 Match			
+Keep Pace and End Race Win Rate : 53.2%				
+								
+*********************************************************	 	
+								
+Hold at 20 or Goal VS My Die Player (1000 Matches)		 
+-----------------------------------------------------------
+Hold at 20 or Goal Won 		: 513 Matches
+My Die Player Won 		: 487 Matches
+Hold at 20 or Goal Win Rate 	: 51.3%
+
+*********************************************************
+
+Hold at 25 or Goal VS Keep Pace and End Race (1000 Matches)
+-----------------------------------------------------------
+Hold at 25 or Goal Won 		: 516 Matches
+Keep Pace and End Race Won 	: 484 Match
+Hold at 25 or Goal Win Rate 	: 51.6%
+
+*********************************************************
+
+Hold at 25 or Goal VS My Die Player (1000 Matches)
+-----------------------------------------------------------
+Hold at 25 or Goal Won 		: 561 Matches
+My Die Player Won  		: 439 Matches
+Hold at 25 or Goal Win Rate 	: 56.1%
+
+*********************************************************
+
+Keep Pace and End Race VS My Die Player (1000 Matches)
+-----------------------------------------------------------
+Keep Pace and End Race Won 	: 528 Match
+My Die Player Won  		: 472 Matches
+My Die Player Win Rate 		: 52.8%
+
+
